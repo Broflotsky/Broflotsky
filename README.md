@@ -5,7 +5,7 @@
 
 - 🖥️ ¿Donde puedo ver tus proyectos? **Estoy trabajando en deployarlos, pero mientras puedes verlos en mis repositorios.**
 
-- 🌱 ¿Que estoy aprendiendo actualmente? **Actualmente estoy estudiando TypeScript, ya que soy consciente que es una apetecida tecnologia para el desarrolo Front-end.**
+- 🌱 ¿Que estoy aprendiendo actualmente? **Actualmente estoy estudiando NextJS para optimizaciones avanzadas.**
 
 - 📫 ¿Donde puedes contactarme? **ivancho0@hotmail.com**
 
